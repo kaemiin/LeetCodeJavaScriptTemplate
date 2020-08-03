@@ -22,9 +22,9 @@ exit
 docker exec -it node-leetcode-javascript bash
 ```
 
-## Test
+## Run
 
 ```
-npm test
+npm start
 ```
 
